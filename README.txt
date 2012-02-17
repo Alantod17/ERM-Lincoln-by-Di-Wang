@@ -57,6 +57,10 @@ WSImportBiota.php         ---Process page for import function from Biota's outpu
 
 WSOutput.php              ---Web service page for output of searching and listing as xml
 
+WSOutUseExample.php       ---A web page to show how to call our web service
+
+WSOutUseExampleFrame.php  ---A page get result as xml and convert it to human readable information and show them in iframe
+
 Style.css                 ---Style page for the website
 
 Web.js                    ---Page for holding common javascript
@@ -66,6 +70,8 @@ images folder             ---Keep images for the website use
 SpecimenImage folder      ---Folder to keep all Specimen images
 
 inc folder                ---Folder to keep all inc files (will explan in below)
+
+
 
 
 
